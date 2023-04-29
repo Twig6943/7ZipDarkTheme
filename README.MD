@@ -2,8 +2,8 @@
 
 This is just a reupload of the .exe cuz you cant extract the .exe using 7-zip
 
-(Here is the original Repository:https://github.com/huanrenfeng/7zipDarkmode/releases/tag/0.06)
+(Here is the original Repository: https://github.com/yener90/7zipDarkmode/releases/tag/0.06)
 
 (Extracted Using https://www.ezyzip.com/unzip-files-online.html#)
 
-(I will delete this repository if the user huanrenfeng uploads the exe files to his own repository)
+(I will delete this repository if the user @yener90 uploads the exe files to his own repository)
