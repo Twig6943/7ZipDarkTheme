@@ -6,4 +6,4 @@ This is just a reupload of the .exe cuz you cant extract the .exe using 7-zip
 
 (Extracted Using https://www.ezyzip.com/unzip-files-online.html#)
 
-(I will delete this repository if the user @yener90 uploads the exe files to his own repository)
+(This repository will be deleted if the user @yener90 uploads the .exe files to his own repository.)
